@@ -22,7 +22,8 @@ Este es un sistema de catálogo de libros diseñado para mantener un registro de
 
 Este proyecto fue desarrollado por [Tu Nombre].
 
-## Licencia
+## Contacto
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE.md](LICENSE.md) para más detalles.
+
+Por cualquier consulta, duda o sugerencia por favor enviar mail a ejpradob@gmail.com
 
