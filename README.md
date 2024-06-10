@@ -4,13 +4,8 @@ Este es un sistema de catálogo de libros diseñado para mantener un registro de
 
 ## Características
 
-1 - Buscar libro por titulo
-2 - Listar libros registrados
-3 - Listas autores registrado
-4 - Buscar Series por titulo
-5 - Listar Libros por Idiomas
-6 - Listar los 5 libros mas descargados en nuestra data
-0 - Salir
+![image](https://github.com/EverthJPradoB/CatalogoLibros/assets/131471022/c222187d-8cee-4076-b09f-129d314b5137)
+
 
 ## Tecnologías Utilizadas
 
